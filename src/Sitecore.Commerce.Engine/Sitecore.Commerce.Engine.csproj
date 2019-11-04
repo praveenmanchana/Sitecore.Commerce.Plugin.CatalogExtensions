@@ -20,6 +20,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Plugin.Sample.AdventureWorks\Plugin.Sample.AdventureWorks.csproj" />
+    <ProjectReference Include="..\Plugin.Sample.CatalogExtension\Plugin.Sample.CatalogExtension.csproj" />
     <ProjectReference Include="..\Plugin.Sample.Customers.CsMigration\Plugin.Sample.Customers.CsMigration.csproj" />
     <ProjectReference Include="..\Plugin.Sample.InPlaceUpgrade\Plugin.Sample.InPlaceUpgrade.csproj" />
     <ProjectReference Include="..\Plugin.Sample.Habitat\Plugin.Sample.Habitat.csproj" />
