@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using Sitecore.Commerce.Core;
 
-namespace Plugin.Sample.CatalogExtension.Components
+namespace Plugin.Sample.VariantProperties.Components
 {
     public class VariantPropertiesComponent : Component
     {

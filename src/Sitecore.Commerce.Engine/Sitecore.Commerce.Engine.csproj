@@ -20,12 +20,12 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Plugin.Sample.AdventureWorks\Plugin.Sample.AdventureWorks.csproj" />
-    <ProjectReference Include="..\Plugin.Sample.CatalogExtension\Plugin.Sample.CatalogExtension.csproj" />
     <ProjectReference Include="..\Plugin.Sample.Customers.CsMigration\Plugin.Sample.Customers.CsMigration.csproj" />
     <ProjectReference Include="..\Plugin.Sample.InPlaceUpgrade\Plugin.Sample.InPlaceUpgrade.csproj" />
     <ProjectReference Include="..\Plugin.Sample.Habitat\Plugin.Sample.Habitat.csproj" />
     <ProjectReference Include="..\Plugin.Sample.Payments.Braintree\Plugin.Sample.Payments.Braintree.csproj" />
     <ProjectReference Include="..\Plugin.Sample.SideBySideUpgrade\Plugin.Sample.SideBySideUpgrade.csproj" />
+    <ProjectReference Include="..\Plugin.Sample.VariantProperties\Plugin.Sample.VariantProperties.csproj" />
   </ItemGroup>
 
   <ItemGroup>

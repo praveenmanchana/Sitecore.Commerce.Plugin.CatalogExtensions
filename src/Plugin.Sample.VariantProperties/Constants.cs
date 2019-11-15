@@ -1,4 +1,4 @@
-﻿namespace Plugin.Sample.CatalogExtension
+﻿namespace Plugin.Sample.VariantProperties
 {
     public static class Constants
     {

@@ -1,13 +1,13 @@
 ﻿using System.Reflection;
 using Microsoft.Extensions.DependencyInjection;
-using Plugin.Sample.CatalogExtension.Pipelines.Blocks;
+using Plugin.Sample.VariantProperties.Pipelines.Blocks;
 using Sitecore.Commerce.Core;
 using Sitecore.Commerce.EntityViews;
 using Sitecore.Commerce.Plugin.Catalog;
 using Sitecore.Framework.Configuration;
 using Sitecore.Framework.Pipelines.Definitions.Extensions;
 
-namespace Plugin.Sample.CatalogExtension
+namespace Plugin.Sample.VariantProperties
 {
     public class ConfigureSitecore : IConfigureSitecore
     {

@@ -1,13 +1,12 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
-using Plugin.Sample.CatalogExtension.Components;
+using Plugin.Sample.VariantProperties.Components;
 using Sitecore.Commerce.Core;
 using Sitecore.Commerce.EntityViews;
 using Sitecore.Commerce.Plugin.Catalog;
 using Sitecore.Framework.Pipelines;
 
-
-namespace Plugin.Sample.CatalogExtension.Pipelines.Blocks
+namespace Plugin.Sample.VariantProperties.Pipelines.Blocks
 {
     public class GetSellableItemVariantPropertiesViewBlock : PipelineBlock<EntityView, EntityView, CommercePipelineExecutionContext>
     {
